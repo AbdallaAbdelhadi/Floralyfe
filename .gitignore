@@ -1,0 +1,14 @@
+__pycache__/
+node_modules/
+env/
+.nyc_output/
+*.env
+*.mypy_cache
+*.pytest_cache
+*.config
+*.npm
+.bash_history'
+RTIMU/
+pigpio-master/
+master.zip
+pi/freeze
